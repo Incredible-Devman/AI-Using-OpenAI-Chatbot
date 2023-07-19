@@ -7,9 +7,7 @@ This project is not complex for using.<br/>
 Please enjoy with my porject.
 
 #Run
-
 python test.py
 
 #Requirement
-
-you need the key of OpenAI
+You need the key of OpenAI
